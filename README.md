@@ -2,6 +2,15 @@
 
 ระบบจัดการขายและค่าใช้จ่ายที่เก็บข้อมูลใน MongoDB และรันบน Server
 
+## Screenshots
+
+![Dashboard](screenshot/stock1.png)
+![Sales Management](screenshot/stock2.png)
+![Expense Management](screenshot/stock3.png)
+![Payment Management](screenshot/stock4.png)
+![Customer Management](screenshot/stock5.png)
+![Reports](screenshot/stock6.png)
+
 ## การติดตั้งบน Ubuntu 24.04 (Proxmox)
 
 ### 1. อัปเดตระบบ
